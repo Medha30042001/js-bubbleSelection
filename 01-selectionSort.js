@@ -12,5 +12,5 @@ function solve(N,arr){
       arr[i] = arr[minIndex];
       arr[minIndex] = temp;
     }
-    console.log(arr);
+    console.log(arr.join(' '));
 }
