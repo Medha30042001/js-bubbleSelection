@@ -1,4 +1,4 @@
-//my approach, idk it's same as 03
+//my approach, tbh it's same as 03
 
 function sortingwithK(n,k,arr){
   let swapped = true, pass = 0;
